@@ -1,4 +1,4 @@
-const albumHash = "vfxArDu";
+const albumHash = "akebi-chan-no-sailor-fuku-ep7-vfxArDu";
 
 fetch(`https://imgur.com/a/${albumHash}.json`)
   .then(res => res.json())
